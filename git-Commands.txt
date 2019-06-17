@@ -1,0 +1,13 @@
+$ git config --global user.email "pathanrahimkhan786@gmail.com"
+$ git config --global user.name "pathan rahimkhan"
+
+
+
+1.git init
+2.git add -A
+3.git status
+4.git commit -m "index.html index.css"
+5.git remote add origin https://github.com/rahimpathan/myripo1.git
+6.git push  origin master
+7.git clone  https://github.com/rahimpathan/myripo1.git
+8.
